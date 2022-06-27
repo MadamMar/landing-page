@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: Roboto;
 }
 
 .header, 
@@ -121,6 +122,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 25px;
 }
 
 .quote {
@@ -132,7 +134,7 @@ h1 {
 }
 
 .signature {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 800;
     text-align: end;
     font-style: normal;
