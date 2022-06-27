@@ -147,8 +147,8 @@ h1 {
     align-items: center;
     gap: 25px;
     border-radius: 1em;
-    margin: 100px;
-    padding: 65px 90px;
+    margin: 100px 200px;
+    padding: 65px 150px;
 }
 
 .signup {
